@@ -38,7 +38,7 @@ const Achievements: React.FC = () => {
     },
     {
       title: "Samsung Excellence Award 2024",
-      organization: "Samsung R&D Institute",
+      organization: "Samsung Quarterly Awards 2024 (Q3)",
       description: "Awarded for outstanding performance and technical leadership in AI projects.",
       icon: Star
     }

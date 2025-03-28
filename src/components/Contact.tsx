@@ -94,7 +94,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h5 className="font-medium mb-1">Email</h5>
-                    <p className="text-gray-600">contact@vaibhavgupta.com</p>
+                    <p className="text-gray-600">contact@vbhvgupta.com</p>
                   </div>
                 </div>
                 
@@ -104,7 +104,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h5 className="font-medium mb-1">Phone</h5>
-                    <p className="text-gray-600">+91 98765 43210</p>
+                    <p className="text-gray-600">(+91) 9897388411</p>
                   </div>
                 </div>
                 
