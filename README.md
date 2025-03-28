@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to a Lovable Project - Vaibhav Gupta Portfolio website  
 
 ## Project info
 
@@ -8,11 +8,6 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0e5f8835-4426-46f2-afaf-b1df6ba70802) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -52,7 +47,7 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with .
+This project is built with 
 
 - Vite
 - TypeScript
@@ -66,4 +61,4 @@ Simply open [Lovable](https://lovable.dev/projects/0e5f8835-4426-46f2-afaf-b1df6
 
 ## I want to use a custom domain - is that possible?
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Lovable doesn't support custom domains (yet). If you want to deploy your project under your domain, use Netlify. Visit Lovable docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
