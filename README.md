@@ -1,6 +1,6 @@
 # Welcome to a Lovable Project - Vaibhav Gupta Portfolio website  
 
-**URL**: [https://lovable.dev/projects/0e5f8835-4426-46f2-afaf-b1df6ba70802](https://preview--vaibhav-portfolio-hub.lovable.app/)
+**URL**: [https://preview--vaibhav-portfolio-hub.lovable.app](https://preview--vaibhav-portfolio-hub.lovable.app/)
 
 ## How can I edit this code?
 
